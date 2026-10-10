@@ -1,4 +1,3 @@
-
 # 👋 Hello World! I'm Asad Kirmani
 
 ### Full-Stack Developer | TypeScript Enthusiast | Android Developer in Progress
@@ -26,8 +25,7 @@ const asad = {
     "TypeScript",
     "JavaScript",
     "Java",
-    "Kotlin",
-    "Python"
+    "Kotlin"
   ],
 
   frontend: ["React", "Next.js", "Angular"],
@@ -108,7 +106,8 @@ A Trello-inspired project management application built with Angular and Node.js.
 
 **Tech Stack:** Angular · TypeScript · Node.js · REST APIs
 
-[![View Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsadKirmani/taskflow)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-3178C6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taskflow.kidrauhl.in)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsadKirmani/taskflow)
 
 ### 💊 Medico — Pharmacy Management System
 
@@ -120,6 +119,9 @@ A full-stack pharmacy management application developed as an MCA project.
 
 **Tech Stack:** React · Java · Spring Boot · MongoDB · JWT
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-3178C6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://medico-12ed5.web.app)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsadKirmani/medico)
+
 ### 📚 Amazing Dictionary — Word Hunt
 
 A web application for exploring word meanings.
@@ -127,8 +129,15 @@ A web application for exploring word meanings.
 **Tech Stack:** React · JavaScript · Dictionary API · Firebase
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-3178C6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amazing-dictionary.web.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsadKirmani/word_hunt)
 
-[![View Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsadKirmani/word_hunt)
+---
+
+## 🌐 Portfolio
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-3178C6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kidrauhl.in)
+
+Explore my portfolio to learn more about my work, projects, and development journey.
 
 ---
 
