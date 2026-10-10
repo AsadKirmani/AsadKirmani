@@ -1,14 +1,22 @@
-👋 Hello World! I'm Asad Kirmani
 
-<h3>Full-Stack Developer | TypeScript Enthusiast | Android Developer in Progress</h3><p>
+# 👋 Hello World! I'm Asad Kirmani
+
+### Full-Stack Developer | TypeScript Enthusiast | Android Developer in Progress
+
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3178C6&width=650&lines=Building+with+TypeScript+%26+JavaScript;Crafting+scalable+web+applications;Learning+Kotlin+%26+Jetpack+Compose;Exploring+AI+Agents+%26+SaaS+Products" alt="Typing SVG" />
-</p><p>
+</p>
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=AsadKirmani&label=Profile%20Views&color=3178C6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/AsadKirmani?label=Followers&style=flat&color=3178C6" alt="GitHub Followers" />
-</p>---
+</p>
 
-👨‍💻 About Me
+---
 
+## 👨‍💻 About Me
+
+```typescript
 const asad = {
   name: "Asad Kirmani",
   brand: "Asdora Labs",
@@ -43,43 +51,54 @@ const asad = {
 
   philosophy: "Learn by building. Improve by shipping."
 } satisfies Record<string, unknown>;
+```
 
 - 🔭 Building practical projects and exploring product development.
 - 🌱 Currently focusing on Kotlin and Jetpack Compose.
 - 💻 Interested in TypeScript, backend engineering, and scalable applications.
 - 🤖 Exploring AI agents and workflow automation.
-- 🚀 Building under Asdora Labs.
+- 🚀 Building under **Asdora Labs**.
 - 🎯 Focused on learning, building, publishing, and improving real-world products.
 
 ---
 
-⚡ Tech Stack
+## ⚡ Tech Stack
 
-Languages
+### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,kotlin,python" alt="Programming Languages" />
-</p>Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,kotlin" alt="Programming Languages" />
+</p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,materialui" alt="Frontend Technologies" />
-</p>Backend & Databases
+### Frontend Development
 
-<p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind" alt="Frontend Technologies" />
+</p>
+
+### Backend & Databases
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,postgres,mongodb,redis,firebase" alt="Backend and Databases" />
-</p>Android Development
+</p>
 
-<p>
+### Android Development
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" alt="Android Development" />
-</p>Tools & Platforms
+</p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,aws" alt="Development Tools" />
-</p>---
+### Tools & Platforms
 
-🚀 Featured Projects
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel" alt="Development Tools" />
+</p>
 
-📋 Taskflow — Project Management
+---
+
+## 🚀 Featured Projects
+
+### 📋 Taskflow — Project Management
 
 A Trello-inspired project management application built with Angular and Node.js.
 
@@ -87,11 +106,11 @@ A Trello-inspired project management application built with Angular and Node.js.
 - Role-based access control and permission handling.
 - Activity feeds and structured backend services.
 
-Tech Stack: Angular · TypeScript · Node.js · REST APIs
+**Tech Stack:** Angular · TypeScript · Node.js · REST APIs
 
-""GitHub" (https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)" (https://github.com/AsadKirmani/taskflow)
+[![View Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsadKirmani/taskflow)
 
-💊 Medico — Pharmacy Management System
+### 💊 Medico — Pharmacy Management System
 
 A full-stack pharmacy management application developed as an MCA project.
 
@@ -99,36 +118,42 @@ A full-stack pharmacy management application developed as an MCA project.
 - Authentication and authorization.
 - Dashboard and reporting features.
 
-Tech Stack: React · Java · Spring Boot · MongoDB · JWT
+**Tech Stack:** React · Java · Spring Boot · MongoDB · JWT
 
-📚 Amazing Dictionary — Word Hunt
+### 📚 Amazing Dictionary — Word Hunt
 
 A web application for exploring word meanings.
 
-Tech Stack: React · JavaScript · Dictionary API · Firebase
+**Tech Stack:** React · JavaScript · Dictionary API · Firebase
 
-""Live Demo" (https://img.shields.io/badge/Live_Demo-3178C6?style=for-the-badge&logo=googlechrome&logoColor=white)" (https://amazing-dictionary.web.app/)
-""GitHub" (https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)" (https://github.com/AsadKirmani/word_hunt)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-3178C6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amazing-dictionary.web.app/)
+
+[![View Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsadKirmani/word_hunt)
 
 ---
 
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AsadKirmani&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadKirmani&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=AsadKirmani&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>---
-
-📈 Contribution Graph
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsadKirmani&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
-</p>---
+  <img src="https://streak-stats.demolab.com?user=AsadKirmani&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
 
-🎯 Current Focus
+---
 
+## 📈 Contribution Graph
+
+[![GitHub Contribution Graph](https://ghchart.rshah.org/3178C6/AsadKirmani)](https://github.com/AsadKirmani)
+
+---
+
+## 🎯 Current Focus
+
+```typescript
 type DeveloperGoals = {
   android: "Kotlin + Jetpack Compose";
   web: "TypeScript + Modern Frameworks";
@@ -144,6 +169,7 @@ const goals: DeveloperGoals = {
   ai: "Agents + Workflow Automation",
   mission: "Build, publish, and improve products"
 };
+```
 
 I enjoy learning by building real-world projects, solving engineering problems, and continuously improving my skills.
 
@@ -151,7 +177,7 @@ My goal is to turn ideas into useful products, understand the engineering behind
 
 ---
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 
 <p align="left">
   <a href="https://github.com/AsadKirmani">
@@ -160,10 +186,10 @@ My goal is to turn ideas into useful products, understand the engineering behind
   <a href="https://www.linkedin.com/in/asadkirmani/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>---
+</p>
+
+---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40" alt="Developer animation" />
-  <br />
   <i>"Hello World" was just the beginning. 🚀</i>
 </p>
